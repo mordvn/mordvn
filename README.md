@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am passionate about building innovative solutions and continuously improving my skills.
 
----
+
 
 ## 💻 **Technologies**  
 
@@ -42,7 +42,7 @@ I am passionate about building innovative solutions and continuously improving m
 ### **Payments**  
 ![YooMoney](https://img.shields.io/badge/YooMoney-FF0000?style=for-the-badge&logo=yoomoney&logoColor=white)  
 
----
+
 
 ## 🌟 **Soft Skills**  
 - **System Architecture Design** (UML, draw.io, microservices)  
@@ -51,7 +51,7 @@ I am passionate about building innovative solutions and continuously improving m
 - **Product Psychology** (user behavior analysis, motivation frameworks)  
 - **Creative Production** (video editing, storytelling, prototyping)  
 
----
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mordvn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
