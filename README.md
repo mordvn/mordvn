@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about building innovative solutions and continuously improving my skills.
+A design-focused software engineer
 
 
 ## 📊 GitHub Stats:
