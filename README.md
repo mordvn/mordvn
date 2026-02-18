@@ -1,5 +1,5 @@
 # About Me
-💻 A design-focused software engineer
+💻 design-focused software engineer
 
 
 ## GitHub Stats
